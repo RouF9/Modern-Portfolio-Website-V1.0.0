@@ -18,7 +18,7 @@ See the website in action: [https://rouwave.netlify.app/](https://rouwave.netlif
 
 Here's a sneak peek at the website:
 
-![Website Screenshot]()
+![Website Screenshot](/modern-portfolio-1.png)
 
 ## Technologies
 
