@@ -53,18 +53,6 @@ To run this project locally, you'll need a few things:
 -npm run dev
 *This command typically launches the development server at http://localhost:3000. Open this URL in your web browser to view the running website.
 
-**Project Structure**
--The project is structured to enhance clarity and maintainability:
-modern-portfolio/
-  ├── public/                # Publicly accessible assets like images, fonts, etc.
-  ├── src/                  # The heart of the application: source code
-  │   ├── components/        # Reusable UI components for various website sections
-  │   ├── pages/             # Next.js pages, each representing a different route
-  │   ├── styles/            # Global styles and Tailwind CSS configuration
-  │   ├── lib/               # Utility functions, reusable logic, and helpers
-  │   ├── ...               # Other project-specific directories
-  ├── ...
-  
 **Contributing**
 This project is under active development, and contributions are welcome!
 **License**
