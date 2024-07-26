@@ -43,16 +43,18 @@ To run this project locally, you'll need a few things:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/RouF9/Modern-Portfolio-Website-V1.0.0.git
-Navigate to the project directory:
-cd Modern-Portfolio-Website-V1.0.0
-Install the dependencies:
-npm install
-Running the Development Server
-Start the development server using the following command:
-npm run dev
-This command typically launches the development server at http://localhost:3000. Open this URL in your web browser to view the running website.
-Project Structure
-The project is structured to enhance clarity and maintainability:
+   
+-Navigate to the project directory:
+-cd Modern-Portfolio-Website-V1.0.0
+*Install the dependencies:
+-npm install
+*Running the Development Server
+*Start the development server using the following command:
+-npm run dev
+*This command typically launches the development server at http://localhost:3000. Open this URL in your web browser to view the running website.
+
+**Project Structure**
+-The project is structured to enhance clarity and maintainability:
 modern-portfolio/
   ├── public/                # Publicly accessible assets like images, fonts, etc.
   ├── src/                  # The heart of the application: source code
@@ -62,7 +64,8 @@ modern-portfolio/
   │   ├── lib/               # Utility functions, reusable logic, and helpers
   │   ├── ...               # Other project-specific directories
   ├── ...
-Contributing
+  
+**Contributing**
 This project is under active development, and contributions are welcome!
-License
+**License**
 This project is licensed under the MIT License, allowing for flexibility in use and modification.
